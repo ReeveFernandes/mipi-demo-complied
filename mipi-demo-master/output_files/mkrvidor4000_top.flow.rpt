@@ -1,0 +1,145 @@
+Flow report for mkrvidor4000_top
+Sun Jul 17 15:19:55 2022
+Quartus Prime Version 21.1.1 Build 850 06/23/2022 SJ Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Flow Summary
+  3. Flow Settings
+  4. Flow Non-Default Global Settings
+  5. Flow Elapsed Time
+  6. Flow OS Summary
+  7. Flow Log
+  8. Flow Messages
+  9. Flow Suppressed Messages
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2022  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and any partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel FPGA IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Intel and sold by Intel or its authorized distributors.  Please
+refer to the applicable agreement for further details, at
+https://fpgasoftware.intel.com/eula.
+
+
+
++----------------------------------------------------------------------------------+
+; Flow Summary                                                                     ;
++------------------------------------+---------------------------------------------+
+; Flow Status                        ; Successful - Sun Jul 17 15:19:55 2022       ;
+; Quartus Prime Version              ; 21.1.1 Build 850 06/23/2022 SJ Lite Edition ;
+; Revision Name                      ; mkrvidor4000_top                            ;
+; Top-level Entity Name              ; mkrvidor4000_top                            ;
+; Family                             ; Cyclone 10 LP                               ;
+; Device                             ; 10CL016YU256C8G                             ;
+; Timing Models                      ; Final                                       ;
+; Total logic elements               ; 2,180 / 15,408 ( 14 % )                     ;
+;     Total combinational functions  ; 2,049 / 15,408 ( 13 % )                     ;
+;     Dedicated logic registers      ; 837 / 15,408 ( 5 % )                        ;
+; Total registers                    ; 845                                         ;
+; Total pins                         ; 79 / 163 ( 48 % )                           ;
+; Total virtual pins                 ; 0                                           ;
+; Total memory bits                  ; 8,192 / 516,096 ( 2 % )                     ;
+; Embedded Multiplier 9-bit elements ; 0 / 112 ( 0 % )                             ;
+; Total PLLs                         ; 2 / 4 ( 50 % )                              ;
++------------------------------------+---------------------------------------------+
+
+
++-----------------------------------------+
+; Flow Settings                           ;
++-------------------+---------------------+
+; Option            ; Setting             ;
++-------------------+---------------------+
+; Start date & time ; 07/17/2022 15:07:39 ;
+; Main task         ; Compilation         ;
+; Revision Name     ; mkrvidor4000_top    ;
++-------------------+---------------------+
+
+
++-------------------------------------------------------------------------------------------------------------------------+
+; Flow Non-Default Global Settings                                                                                        ;
++-------------------------------------+----------------------------------------+---------------+-------------+------------+
+; Assignment Name                     ; Value                                  ; Default Value ; Entity Name ; Section Id ;
++-------------------------------------+----------------------------------------+---------------+-------------+------------+
+; COMPILER_SIGNATURE_ID               ; 121377249742.165805605805548           ; --            ; --          ; --         ;
+; MAX_CORE_JUNCTION_TEMP              ; 85                                     ; --            ; --          ; --         ;
+; MIN_CORE_JUNCTION_TEMP              ; 0                                      ; --            ; --          ; --         ;
+; NOMINAL_CORE_SUPPLY_VOLTAGE         ; 1.2V                                   ; --            ; --          ; --         ;
+; PARTITION_COLOR                     ; -- (Not supported for targeted family) ; --            ; --          ; Top        ;
+; PARTITION_FITTER_PRESERVATION_LEVEL ; -- (Not supported for targeted family) ; --            ; --          ; Top        ;
+; PARTITION_NETLIST_TYPE              ; -- (Not supported for targeted family) ; --            ; --          ; Top        ;
+; POWER_BOARD_THERMAL_MODEL           ; None (CONSERVATIVE)                    ; --            ; --          ; --         ;
+; POWER_PRESET_COOLING_SOLUTION       ; 23 MM HEAT SINK WITH 200 LFPM AIRFLOW  ; --            ; --          ; --         ;
+; PROJECT_OUTPUT_DIRECTORY            ; output_files                           ; --            ; --          ; --         ;
++-------------------------------------+----------------------------------------+---------------+-------------+------------+
+
+
++-----------------------------------------------------------------------------------------------------------------------------+
+; Flow Elapsed Time                                                                                                           ;
++-------------------------+--------------+-------------------------+---------------------+------------------------------------+
+; Module Name             ; Elapsed Time ; Average Processors Used ; Peak Virtual Memory ; Total CPU Time (on all processors) ;
++-------------------------+--------------+-------------------------+---------------------+------------------------------------+
+; Analysis & Synthesis    ; 00:00:15     ; 1.0                     ; 4812 MB             ; 00:00:22                           ;
+; Fitter                  ; 00:00:14     ; 1.1                     ; 5483 MB             ; 00:00:19                           ;
+; Assembler               ; 00:00:01     ; 1.0                     ; 4707 MB             ; 00:00:01                           ;
+; Timing Analyzer         ; 00:00:02     ; 1.2                     ; 4806 MB             ; 00:00:03                           ;
+; Design Assistant        ; 00:00:01     ; 1.0                     ; 4688 MB             ; 00:00:01                           ;
+; I/O Assignment Analysis ; 00:00:03     ; 1.0                     ; 4944 MB             ; 00:00:03                           ;
+; Fitter                  ; 00:00:12     ; 1.1                     ; 5486 MB             ; 00:00:18                           ;
+; Design Assistant        ; 00:00:01     ; 1.0                     ; 4688 MB             ; 00:00:01                           ;
+; Assembler               ; 00:00:01     ; 1.0                     ; 4719 MB             ; 00:00:01                           ;
+; Timing Analyzer         ; 00:00:03     ; 1.2                     ; 4812 MB             ; 00:00:03                           ;
+; Total                   ; 00:00:53     ; --                      ; --                  ; 00:01:12                           ;
++-------------------------+--------------+-------------------------+---------------------+------------------------------------+
+
+
++---------------------------------------------------------------------------------------+
+; Flow OS Summary                                                                       ;
++-------------------------+------------------+------------+------------+----------------+
+; Module Name             ; Machine Hostname ; OS Name    ; OS Version ; Processor type ;
++-------------------------+------------------+------------+------------+----------------+
+; Analysis & Synthesis    ; REEVEFERNAN659D  ; Windows 10 ; 10.0       ; x86_64         ;
+; Fitter                  ; REEVEFERNAN659D  ; Windows 10 ; 10.0       ; x86_64         ;
+; Assembler               ; REEVEFERNAN659D  ; Windows 10 ; 10.0       ; x86_64         ;
+; Timing Analyzer         ; REEVEFERNAN659D  ; Windows 10 ; 10.0       ; x86_64         ;
+; Design Assistant        ; REEVEFERNAN659D  ; Windows 10 ; 10.0       ; x86_64         ;
+; I/O Assignment Analysis ; REEVEFERNAN659D  ; Windows 10 ; 10.0       ; x86_64         ;
+; Fitter                  ; REEVEFERNAN659D  ; Windows 10 ; 10.0       ; x86_64         ;
+; Design Assistant        ; REEVEFERNAN659D  ; Windows 10 ; 10.0       ; x86_64         ;
+; Assembler               ; REEVEFERNAN659D  ; Windows 10 ; 10.0       ; x86_64         ;
+; Timing Analyzer         ; REEVEFERNAN659D  ; Windows 10 ; 10.0       ; x86_64         ;
++-------------------------+------------------+------------+------------+----------------+
+
+
+------------
+; Flow Log ;
+------------
+quartus_map --read_settings_files=on --write_settings_files=off mkrvidor4000_top -c mkrvidor4000_top
+quartus_fit --read_settings_files=off --write_settings_files=off mkrvidor4000_top -c mkrvidor4000_top
+quartus_asm --read_settings_files=off --write_settings_files=off mkrvidor4000_top -c mkrvidor4000_top
+quartus_sta mkrvidor4000_top -c mkrvidor4000_top
+quartus_drc mkrvidor4000_top -c mkrvidor4000_top
+quartus_fit --read_settings_files=on --write_settings_files=off mkrvidor4000_top -c mkrvidor4000_top --plan
+quartus_fit --read_settings_files=on --write_settings_files=off mkrvidor4000_top -c mkrvidor4000_top
+quartus_drc mkrvidor4000_top -c mkrvidor4000_top
+quartus_asm --read_settings_files=on --write_settings_files=off mkrvidor4000_top -c mkrvidor4000_top
+quartus_sta mkrvidor4000_top -c mkrvidor4000_top
+quartus_eda --read_settings_files=on --write_settings_files=off mkrvidor4000_top -c mkrvidor4000_top
+
+
+

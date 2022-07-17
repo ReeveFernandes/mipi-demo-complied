@@ -1,0 +1,221 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'mem_pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -1.942
+TNS   : -15.407
+
+Type  : Slow 1200mV 85C Model Setup 'hdmi_pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -1.900
+TNS   : -14.774
+
+Type  : Slow 1200mV 85C Model Setup 'SDRAM_CLK'
+Slack : -0.263
+TNS   : -0.524
+
+Type  : Slow 1200mV 85C Model Setup 'hdmi_pll|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 4.015
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'CLK_48MHZ'
+Slack : 9.861
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'hdmi_pll|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 20829.199
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'mem_pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.435
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'CLK_48MHZ'
+Slack : 0.454
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'hdmi_pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.454
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'hdmi_pll|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 0.455
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'hdmi_pll|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 0.501
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'SDRAM_CLK'
+Slack : 1.683
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'SDRAM_CLK'
+Slack : 2.698
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'mem_pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 2.941
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'hdmi_pll|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 3.492
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLK_48MHZ'
+Slack : 10.134
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'hdmi_pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 19.490
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'hdmi_pll|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 10416.153
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'mem_pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -1.825
+TNS   : -14.041
+
+Type  : Slow 1200mV 0C Model Setup 'hdmi_pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -1.671
+TNS   : -12.798
+
+Type  : Slow 1200mV 0C Model Setup 'SDRAM_CLK'
+Slack : 0.191
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'hdmi_pll|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 4.291
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'CLK_48MHZ'
+Slack : 10.539
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'hdmi_pll|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 20829.492
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'mem_pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.384
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'CLK_48MHZ'
+Slack : 0.402
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'hdmi_pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.402
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'hdmi_pll|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 0.403
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'hdmi_pll|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 0.471
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'SDRAM_CLK'
+Slack : 1.402
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'SDRAM_CLK'
+Slack : 2.698
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'mem_pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 2.941
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'hdmi_pll|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 3.492
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLK_48MHZ'
+Slack : 10.129
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'hdmi_pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 19.496
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'hdmi_pll|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 10416.158
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'hdmi_pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -0.543
+TNS   : -4.117
+
+Type  : Fast 1200mV 0C Model Setup 'mem_pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -0.516
+TNS   : -3.816
+
+Type  : Fast 1200mV 0C Model Setup 'SDRAM_CLK'
+Slack : 2.580
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'hdmi_pll|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 6.192
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'CLK_48MHZ'
+Slack : 16.037
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'hdmi_pll|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 20831.318
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'mem_pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.126
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CLK_48MHZ'
+Slack : 0.187
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'hdmi_pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.187
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'hdmi_pll|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 0.188
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'hdmi_pll|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 0.195
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'SDRAM_CLK'
+Slack : 0.342
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'SDRAM_CLK'
+Slack : 3.142
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'mem_pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 3.292
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'hdmi_pll|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 3.731
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLK_48MHZ'
+Slack : 9.837
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'hdmi_pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 19.570
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'hdmi_pll|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 10416.264
+TNS   : 0.000
+
+------------------------------------------------------------

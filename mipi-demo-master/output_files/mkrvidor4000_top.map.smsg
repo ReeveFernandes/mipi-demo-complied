@@ -1,0 +1,23 @@
+Warning (10273): Verilog HDL warning at sdram_controller.sv(157): extended using "x" or "z" File: C:/intelFPGA_lite/sdram-controller-master/src/sdram_controller.sv Line: 157
+Warning (10273): Verilog HDL warning at sdram_controller.sv(351): extended using "x" or "z" File: C:/intelFPGA_lite/sdram-controller-master/src/sdram_controller.sv Line: 351
+Warning (10268): Verilog HDL information at i2c_core.sv(136): always construct contains both blocking and non-blocking assignments File: C:/intelFPGA_lite/i2c-master/src/i2c_core.sv Line: 136
+Info (10281): Verilog HDL Declaration information at i2c_core.sv(35): object "mode" differs only in case from object "MODE" in the same scope File: C:/intelFPGA_lite/i2c-master/src/i2c_core.sv Line: 35
+Warning (10273): Verilog HDL warning at d_phy_receiver.sv(37): extended using "x" or "z" File: C:/intelFPGA_lite/mipi-csi-2-master/src/d_phy_receiver.sv Line: 37
+Warning (10273): Verilog HDL warning at d_phy_receiver.sv(60): extended using "x" or "z" File: C:/intelFPGA_lite/mipi-csi-2-master/src/d_phy_receiver.sv Line: 60
+Warning (10273): Verilog HDL warning at d_phy_receiver.sv(79): extended using "x" or "z" File: C:/intelFPGA_lite/mipi-csi-2-master/src/d_phy_receiver.sv Line: 79
+Warning (10268): Verilog HDL information at camera.sv(83): always construct contains both blocking and non-blocking assignments File: C:/intelFPGA_lite/mipi-csi-2-master/src/camera.sv Line: 83
+Info (10281): Verilog HDL Declaration information at source_product_description_info_frame.sv(7): object "VENDOR_NAME" differs only in case from object "vendor_name" in the same scope File: C:/intelFPGA_lite/hdmi-master/src/source_product_description_info_frame.sv Line: 7
+Info (10281): Verilog HDL Declaration information at source_product_description_info_frame.sv(8): object "PRODUCT_DESCRIPTION" differs only in case from object "product_description" in the same scope File: C:/intelFPGA_lite/hdmi-master/src/source_product_description_info_frame.sv Line: 8
+Warning (10273): Verilog HDL warning at packet_picker.sv(42): extended using "x" or "z" File: C:/intelFPGA_lite/hdmi-master/src/packet_picker.sv Line: 42
+Warning (10273): Verilog HDL warning at packet_picker.sv(43): extended using "x" or "z" File: C:/intelFPGA_lite/hdmi-master/src/packet_picker.sv Line: 43
+Warning (10273): Verilog HDL warning at packet_picker.sv(44): extended using "x" or "z" File: C:/intelFPGA_lite/hdmi-master/src/packet_picker.sv Line: 44
+Warning (10273): Verilog HDL warning at packet_picker.sv(45): extended using "x" or "z" File: C:/intelFPGA_lite/hdmi-master/src/packet_picker.sv Line: 45
+Warning (10273): Verilog HDL warning at packet_picker.sv(46): extended using "x" or "z" File: C:/intelFPGA_lite/hdmi-master/src/packet_picker.sv Line: 46
+Warning (10268): Verilog HDL information at packet_picker.sv(118): always construct contains both blocking and non-blocking assignments File: C:/intelFPGA_lite/hdmi-master/src/packet_picker.sv Line: 118
+Warning (10273): Verilog HDL warning at packet_picker.sv(161): extended using "x" or "z" File: C:/intelFPGA_lite/hdmi-master/src/packet_picker.sv Line: 161
+Warning (10268): Verilog HDL information at hdmi.sv(318): always construct contains both blocking and non-blocking assignments File: C:/intelFPGA_lite/hdmi-master/src/hdmi.sv Line: 318
+Warning (10273): Verilog HDL warning at audio_sample_packet.sv(103): extended using "x" or "z" File: C:/intelFPGA_lite/hdmi-master/src/audio_sample_packet.sv Line: 103
+Warning (10273): Verilog HDL warning at audio_clock_regeneration_packet.sv(61): extended using "x" or "z" File: C:/intelFPGA_lite/hdmi-master/src/audio_clock_regeneration_packet.sv Line: 61
+Info (10281): Verilog HDL Declaration information at ov5647.sv(6): object "ADDRESS" differs only in case from object "address" in the same scope File: C:/intelFPGA_lite/mipi-ccs-master/src/ov5647.sv Line: 6
+Warning (10273): Verilog HDL warning at arbiter.sv(118): extended using "x" or "z" File: C:/intelFPGA_lite/mipi-demo-master/top/mkrvidor4000/arbiter.sv Line: 118
+Warning (10273): Verilog HDL warning at arbiter.sv(143): extended using "x" or "z" File: C:/intelFPGA_lite/mipi-demo-master/top/mkrvidor4000/arbiter.sv Line: 143
